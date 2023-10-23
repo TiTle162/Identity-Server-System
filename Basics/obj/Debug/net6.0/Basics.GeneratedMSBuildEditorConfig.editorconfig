@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Basics
+build_property.RootNamespace = Basics
+build_property.ProjectDir = D:\Identity\Authentication\Basics\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Identity\Authentication\Basics
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Identity/Authentication/Basics/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/RazorSecured/Anon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JTZWN1cmVkXEFub24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/RazorSecured/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JTZWN1cmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Razor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Razor/Policy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JcUG9saWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Razor/Secured.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JcU2VjdXJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Views/Home/Secret.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWNyZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Identity/Authentication/Basics/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rzj8m37bxz
