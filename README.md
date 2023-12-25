@@ -14,5 +14,5 @@
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/Client%20Login%20Page.PNG?raw=true)
 ## 4. Mapping user and application page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/Mapping%20User%20And%20Client%20Page.PNG?raw=true)
-## 5. Login to application via IDS system (OAuth 2.0) Page.
+## 5. Login to application via IDS system (OAuth 2.0) page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/OAuth%20Login%20Page.png?raw=true)
