@@ -6,13 +6,13 @@
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Architecture.PNG?raw=true)
 
 # Screens
-## 1. Admin Login Page.
+## 1. Admin login page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/Admin%20Login%20Page.PNG?raw=true)
-## 2. User Register Page.
+## 2. User register page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/User%20Register%20Page.PNG?raw=true)
-## 3. Application Register Page.
+## 3. Application register page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/Client%20Login%20Page.PNG?raw=true)
-## 4. Mapping User And Application Page.
+## 4. Mapping user and application page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/Mapping%20User%20And%20Client%20Page.PNG?raw=true)
 ## 5. Login to application via IDS system (OAuth 2.0) Page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/OAuth%20Login%20Page.png?raw=true)
