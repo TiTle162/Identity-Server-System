@@ -16,3 +16,13 @@
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/Mapping%20User%20And%20Client%20Page.PNG?raw=true)
 ## 5. Login to application via IDS system (OAuth 2.0) page.
 ![alt text](https://github.com/TiTle162/Identity-Server-System/blob/main/IDS-Screens/OAuth%20Login%20Page.png?raw=true)
+
+# โครงสร้างโฟลเดอร์
+```
+-> Identity-Server-System
+    -> Basics    โฟลเดอร์พื้นฐานการ Authentication และ Authorization โดยใช้             
+    -> Server    โฟลเดอร์ setup OAuth 2.0 และส่วนของหน้า login ผ่านระบบ
+    
+    * โฟลเดอร์อื่นๆ คือแอปพลิเคชันสําหรับใช้ในการทดสอบการ redirect มายังหน้า login ระบบ
+    ** ส่วนของเว็บไซต์สําหรับ Management ผู้ใช้งานและแอปพลิเคชัน (Front-End) ไม่สามารถนํามาลง GitHub ได้ เนื่องจากติดลิขสิทธิ์ 
+```
