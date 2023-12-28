@@ -26,3 +26,20 @@
     * โฟลเดอร์อื่นๆ คือแอปพลิเคชันสําหรับใช้ในการทดสอบการ redirect มายังหน้า login ระบบ
     ** ส่วนของเว็บไซต์สําหรับ Management ผู้ใช้งานและแอปพลิเคชัน (Front-End) ไม่สามารถนํามาลง GitHub ได้ เนื่องจากติดลิขสิทธิ์ 
 ```
+## เริ่มต้น
+- ติดตั้ง Visual Studio ก่อนทําการ Clone โปรเจค
+- ติดตั้ง Microsoft SQL Server
+
+## Clone Project
+ใช้คําสั่ง `git clone https://github.com/TiTle162/Identity-Server-System.git` เพื่อโคลนโปรเจค 
+
+## Start Project
+1. เลือกรันโปรเจคชื่อ IdentityServer 
+2. เลือกรันโปรเจคอื่นๆ เช่น ApiOne สําหรับใช้ทดสอบการ redirect มายังหน้า Login ของระบบ
+3. ตรวจสอบ Microsoft SQL Server ว่ามี Database ที่เกี่ยวข้องกับ Entity Framework Core สําหรับ Authenticatoin และ IdentityServer4 สําหรับ Authorization
+4. เพิ่มข้อมูล User ตาม [เอกสาร](https://identityserver4.readthedocs.io/en/latest/quickstarts/5_entityframework.html)
+5. ในกรณีที่เลือก ApiOne ให้ไปที่ URL สําหรับเข้าใช้งานระบบ ApiOne (.../secret)
+6. ระบบ ApiOne จะทําการ redirect มายังหน้า login ของระบบ Identity Server System
+7. กรอก Username และ Password ของ User
+8. หากข้อมูลถูกต้อง ระบบ Identity Server System จะ redirect กลับไปยังระบบ ApiOne ที่ URL ในขั้นตอนที่ 5
+
