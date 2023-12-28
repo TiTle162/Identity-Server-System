@@ -44,6 +44,6 @@ Identity Server System
 7. กรอก username และ password ของ user
 8. หากข้อมูลถูกต้อง ระบบ Identity Server System จะ redirect กลับไปยังระบบ ApiOne ที่ url ในขั้นตอนที่ 5
 
-## Start Project
+## ปล.
 แต่ละโปรเจคที่ถูกสร้างขึ้นจากเครื่องมือหรือเทคโนโลยีที่แตกต่างกัน มักจะมีการ config ระบบให้สามารถใช้งานกับระบบ Identity Server System ที่แตกต่างกัน ดังนั้น ควรศึกษาวิธีการ config ระบบเพิ่มเติม
 
