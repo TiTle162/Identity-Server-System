@@ -35,11 +35,11 @@
 
 ## Start Project
 1. เลือกรันโปรเจคชื่อ IdentityServer 
-2. เลือกรันโปรเจคอื่นๆ เช่น ApiOne สําหรับใช้ทดสอบการ redirect มายังหน้า Login ของระบบ
+2. เลือกรันโปรเจคอื่นๆ เช่น ApiOne สําหรับใช้ทดสอบการ redirect มายังหน้า login ของระบบ
 3. ตรวจสอบ Microsoft SQL Server ว่ามี Database ที่เกี่ยวข้องกับ Entity Framework Core สําหรับ Authenticatoin และ IdentityServer4 สําหรับ Authorization
-4. เพิ่มข้อมูล User ตาม [เอกสาร](https://identityserver4.readthedocs.io/en/latest/quickstarts/5_entityframework.html)
-5. ในกรณีที่เลือก ApiOne ให้ไปที่ URL สําหรับเข้าใช้งานระบบ ApiOne (.../secret)
+4. เพิ่มข้อมูล user ตาม [เอกสาร](https://identityserver4.readthedocs.io/en/latest/quickstarts/5_entityframework.html)
+5. ในกรณีที่เลือก ApiOne ให้ไปที่ url สําหรับเข้าใช้งานระบบ ApiOne (.../secret)
 6. ระบบ ApiOne จะทําการ redirect มายังหน้า login ของระบบ Identity Server System
-7. กรอก Username และ Password ของ User
-8. หากข้อมูลถูกต้อง ระบบ Identity Server System จะ redirect กลับไปยังระบบ ApiOne ที่ URL ในขั้นตอนที่ 5
+7. กรอก username และ password ของ user
+8. หากข้อมูลถูกต้อง ระบบ Identity Server System จะ redirect กลับไปยังระบบ ApiOne ที่ url ในขั้นตอนที่ 5
 
